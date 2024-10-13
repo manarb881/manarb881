@@ -1,4 +1,7 @@
 # 👋 Hi, I'm Manar!
+![My Profile Picture](<img width="537" alt="Screen Shot 2024-09-28 at 9 46 08 AM" src="https://github.com/user-attachments/assets/1b4d6a16-1a4d-4f58-a186-1111be487326">
+)
+
 
 Welcome to my GitHub profile! I'm a passionate learner in **Data Science** 📊, **Machine Learning** 🤖, and **Web Development** 🌐. I love exploring new approaches to solve complex problems and creating innovative solutions.
 
