@@ -10,7 +10,7 @@ I'm a **Data Science & Artificial Intelligence** student at **École Nationale P
 ---
 
 ## 📫 Contact Me
-- **Email**: [manar.bourasi@g.enp.edu.dz](mailto:manar.bourasi@g.enp.edu.dz) 📧
+- **Email**: [manar.bouras@g.enp.edu.dz](mailto:manar.bouras@g.enp.edu.dz) 📧
 - **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/manar-bouras-aba26126a) 🔗
 - **Phone**: +213 557334515 ☎️
 
