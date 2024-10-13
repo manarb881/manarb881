@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Manar!
-![My Profile Picture](<img width="537" alt="Screen Shot 2024-09-28 at 9 46 08 AM" src="https://github.com/user-attachments/assets/1b4d6a16-1a4d-4f58-a186-1111be487326">
+![My Profile Picture](<img width="537" alt="Screen Shot 2024-09-28 at 9 46 08 AM" src="https://github.com/user-attachments/assets/22cf6d5d-b455-4e12-a148-2698087063c0">
 )
 
 
