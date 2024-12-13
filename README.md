@@ -19,6 +19,7 @@
 <h2>🚀 My Projects</h2>
 <ul>
   <li>🔍 Face Detection Model </li>
+  <li>🔍 Hour Allocation for School Gym </li>
 
 </ul>
 
