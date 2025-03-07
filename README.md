@@ -10,7 +10,7 @@
 
 <h2>🛠️ My Skills</h2>
 <ul>
-  <li>🤖 Machine Learning (Regression, Classification, Neural Networks,regularisation)</li>
+  <li>🤖 Machine Learning (Regression, Classification, Neural Networks,LLMs,Reinforcement learning)</li>
   <li>🧠 Deep Learning (TensorFlow, Keras)</li>
   <li>📊 Data Analysis (Pandas, NumPy,Power BI,seaborn)</li>
   <li>🌐 Web Development (HTML, CSS,Tailwind css, React JS)</li>
