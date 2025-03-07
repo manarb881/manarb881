@@ -13,7 +13,7 @@
   <li>🤖 Machine Learning (Regression, Classification, Neural Networks,regularisation)</li>
   <li>🧠 Deep Learning (TensorFlow, Keras)</li>
   <li>📊 Data Analysis (Pandas, NumPy,Power BI,seaborn)</li>
-  <li>🌐 Web Development (HTML, CSS)</li>
+  <li>🌐 Web Development (HTML, CSS,Tailwind css, React JS)</li>
   
 </ul>
 
@@ -23,6 +23,8 @@
   <li>🔍 Hour Allocation for School Gym Using Python</li>
   <li>🔍  Adaptative quiz learning using Supervised learning and Reinforcment learning </li>
   <li>🔍 Portfolio Website using HTML CSS </li>
+  <li>Event website using React & tailwind</li>
+  
 </ul>
 
 <h2>Feel free to contact me or collaborate </h2>
